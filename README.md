@@ -5,6 +5,7 @@
 ## Information
 
 - Original [esx_shops](https://github.com/FXServer-ESX/fxserver-esx_shops)
+- Change coordinates on "esx_shops2/config.lua"
 
 ## Requirements
 
