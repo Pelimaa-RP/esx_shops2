@@ -4,7 +4,7 @@
 
 ## Information
 
-- original .[esx_shops].(https://github.com/FXServer-ESX/fxserver-esx_shops)
+- Original [esx_shops](https://github.com/FXServer-ESX/fxserver-esx_shops)
 
 ## Requirements
 
